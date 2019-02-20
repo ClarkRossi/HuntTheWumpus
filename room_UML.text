@@ -1,0 +1,25 @@
+room
+——————————————————————
+- breeze: boolean
+- smell: boolean
+- glimmer: boolean
+- pit: boolean
+- wumpus: boolean
+- gold: boolean
+——————————————————————
++ room()
+
++ getbreeze(): boolean
++ getsmell(): boolean
++ getglimmer(): boolean
++ getpit(): boolean
++ getwumpus(): boolean
++ getgold(): boolean
+
++ setbreeze(newBreeze: boolean): void
++ setsmell(newSmell: boolean): void
++ setglimmer(newGlimmer: boolean): void
++ setpit(newPit: boolean): void
++ setwumpus(newWumpus: boolean): void
++ setgold(newGold: boolean): void
+ 
